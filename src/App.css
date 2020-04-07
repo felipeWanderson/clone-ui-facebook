@@ -89,6 +89,7 @@ nav > i {
 .post-content {
   margin-top: 15px;
   font-size: 14px;
+  text-align: justify;
 }
 
 .bar {
@@ -112,6 +113,7 @@ nav > i {
   margin-left: 10px;
   padding: 15px;
   font-size: 13px;
+  text-align: justify;
 }
 
 .comment span {
