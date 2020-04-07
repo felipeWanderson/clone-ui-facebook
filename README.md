@@ -1,9 +1,6 @@
-# clone-ui-facebook
-Projeto feito com ReactJS, implementando uma parte da UI do Facebook
-
 <h1 align="center">
 <br>
-  <img src="https://user-images.githubusercontent.com/18500523/78690843-5998be80-78ce-11ea-900f-5fd4c37682b0.png" width="220">
+  <img src="https://user-images.githubusercontent.com/18500523/78690843-5998be80-78ce-11ea-900f-5fd4c37682b0.png" width="220" style="background-color: blue;">
 </h1>
 <p align="center">:stars: Clone da Interface do Facebook</p>
 <p align="center">:rocket: Desafio 04 do Bootcamp da Rocketseat</p></br>
